@@ -12,3 +12,10 @@ b.后台登录界面
 c.后台展示界面
 ![后台登录界面1](https://github.com/wonderfulMorty/OnlineStore/blob/master/run_img/Snipaste_2019-12-26_12-19-13.png?raw=true)
 ![后台登录界面2](https://github.com/wonderfulMorty/OnlineStore/blob/master/run_img/Snipaste_2019-12-26_12-19-54.png?raw=true)
+
+三、用户名和密码
+前台的用户名是：morty
+前台的密码是：123456
+
+后台的用户名是：admin
+密码是：123456
